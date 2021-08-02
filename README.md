@@ -5,7 +5,7 @@ welcome to my ***new Reading Notes*** page here i will be showing you new other 
 with at least 15 new subjects
 
 + Subject
-+ Subject
++ Basics of HTML, CSS & JS
 + Subject
 + Subject
 + Subject
@@ -22,7 +22,7 @@ with at least 15 new subjects
 | Syntax      | Description |
 | ----------- | ----------- |
 | Subject     | URL         |
-| Subject     | URL         |
+| Basics of HTML, CSS & JS     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |

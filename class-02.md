@@ -226,26 +226,29 @@ statement.)
 • With a series of if statements, they are 
 all checked even if a match has been found 
 (so it performs more slowly than switch). 
-164 DECISIONS & LOOP_S 
-vs. 
-0 
+
 switch (level) { 
-case 'One ': 
+case 'One ':
+
 title= 'Level 1 ' ; 
 break; 
+
 case 'Two': 
 tit 1 e = ' Level 2 ' ; 
 break; 
+
 case ' Three' : 
 title = 'Level 3' ; 
 break ; 
+
 default : 
 title= 'Test'; 
-break; 
+break; }
 
 SWITCH 
 • You have a default option that is run if 
 none of the cases match. 
+
 • If a match is found, that code is run; then 
 the break statement stops the rest of 
 the switch statement running (providing 

@@ -32,6 +32,7 @@ on.
 Browsers display the contents of 
 headings at different sizes.
 
+
 ![Headers](https://www.studybee.net/wp-content/uploads/2015/07/HTML-Heading-Tags.png)
 
 ###  Paragraphs

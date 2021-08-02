@@ -19,7 +19,8 @@ about the content of that element.
 1. Breaks & Horizontal
 
 ### Headings
-<h1 - h6>
+h1 - h6
+
 HTML has six "levels" of 
 headings:
 h1 is used for main headings
@@ -32,3 +33,7 @@ Browsers display the contents of
 headings at different sizes.
 ![Headers](https://www.studybee.net/wp-content/uploads/2015/07/HTML-Heading-Tags.png)
 
+###  Paragraphs
+this tag is used to write paragraphs much easier 
+
+![]()

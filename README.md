@@ -32,7 +32,7 @@ with at least 15 new subjects
 | Syntax      | Description |
 | ----------- | ----------- |
 | Subject     | URL         |
-| Basics of HTML, CSS & JS     | URL         |
+| Basics of HTML, CSS & JS     | [URL](https://omaxrali.github.io/ReadingNotes2/class-02)         |
 | Subject     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |

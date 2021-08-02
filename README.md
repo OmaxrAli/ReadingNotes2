@@ -14,7 +14,7 @@ welcome to my ***new Reading Notes*** page here i will be showing you new other 
 
 with at least 15 new subjects
 
-+ Subject
++ Introductory HTML and JavaScript
 + Basics of HTML, CSS & JS
 + Subject
 + Subject
@@ -31,7 +31,7 @@ with at least 15 new subjects
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Subject     | URL         |
+| Introductory HTML and JavaScript     | [URL](https://omaxrali.github.io/ReadingNotes2/class-01)         |
 | Basics of HTML, CSS & JS     | [URL](https://omaxrali.github.io/ReadingNotes2/class-02)         |
 | Subject     | URL         |
 | Subject     | URL         |

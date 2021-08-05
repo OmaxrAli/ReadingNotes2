@@ -17,7 +17,7 @@ with at least 15 new subjects
 + Introductory HTML and JavaScript
 + Basics of HTML, CSS & JS
 + Lists boxes and control flow
-+ Subject
++ HTML Images; CSS Color & Text
 + Subject
 + Subject
 + Subject
@@ -34,7 +34,7 @@ with at least 15 new subjects
 | Introductory HTML and JavaScript     | [URL](https://omaxrali.github.io/ReadingNotes2/class-01)         |
 | Basics of HTML, CSS & JS     | [URL](https://omaxrali.github.io/ReadingNotes2/class-02)         |
 | Lists boxes and control flow    | [URL](https://omaxrali.github.io/ReadingNotes2/class-03)         |
-| Subject     | URL         |
+| HTML Images; CSS Color & Text     | [URL](https://omaxrali.github.io/ReadingNotes2/class-04)         |
 | Subject     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |

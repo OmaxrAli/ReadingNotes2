@@ -18,7 +18,7 @@ with at least 15 new subjects
 + Basics of HTML, CSS & JS
 + Lists boxes and control flow
 + HTML Images; CSS Color & Text
-+ Subject
++ Problem Domain, Objects, and the DOM
 + Subject
 + Subject
 + Subject
@@ -35,7 +35,7 @@ with at least 15 new subjects
 | Basics of HTML, CSS & JS     | [URL](https://omaxrali.github.io/ReadingNotes2/class-02)         |
 | Lists boxes and control flow    | [URL](https://omaxrali.github.io/ReadingNotes2/class-03)         |
 | HTML Images; CSS Color & Text     | [URL](https://omaxrali.github.io/ReadingNotes2/class-04)         |
-| Subject     | URL         |
+| Problem Domain, Objects, and the DOM  | [URL](https://omaxrali.github.io/ReadingNotes2/class-05)         |
 | Subject     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |

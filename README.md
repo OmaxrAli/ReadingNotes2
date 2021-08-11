@@ -19,7 +19,7 @@ with at least 15 new subjects
 + Lists boxes and control flow
 + HTML Images; CSS Color & Text
 + Problem Domain, Objects, and the DOM
-+ Subject
++ Forms and JS Events
 + Subject
 + Subject
 + Subject
@@ -36,7 +36,7 @@ with at least 15 new subjects
 | Lists boxes and control flow    | [URL](https://omaxrali.github.io/ReadingNotes2/class-03)         |
 | HTML Images; CSS Color & Text     | [URL](https://omaxrali.github.io/ReadingNotes2/class-04)         |
 | Problem Domain, Objects, and the DOM  | [URL](https://omaxrali.github.io/ReadingNotes2/class-05)         |
-| Subject     | URL         |
+| Forms and JS Events     | [URL](https://omaxrali.github.io/ReadingNotes2/class-06)         |
 | Subject     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |

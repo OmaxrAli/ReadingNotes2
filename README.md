@@ -37,7 +37,7 @@ with at least 15 new subjects
 | HTML Images; CSS Color & Text     | [URL](https://omaxrali.github.io/ReadingNotes2/class-04)         |
 | Problem Domain, Objects, and the DOM  | [URL](https://omaxrali.github.io/ReadingNotes2/class-05)         |
 | Forms and JS Events     | [URL](https://omaxrali.github.io/ReadingNotes2/class-06)         |
-| Subject     | URL         |
+| HTML Links, JS Functions, and Intro to CSS Layout     | [URL](https://omaxrali.github.io/ReadingNotes2/class-07)         |
 | Subject     | URL         |
 | Subject     | URL         |
 | Subject     | URL         |

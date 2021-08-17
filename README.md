@@ -20,7 +20,7 @@ with at least 15 new subjects
 + HTML Images; CSS Color & Text
 + Problem Domain, Objects, and the DOM
 + Forms and JS Events
-+ Subject
++ HTML Links, JS Functions, and Intro to CSS Layout
 + Subject
 + Subject
 + Subject
